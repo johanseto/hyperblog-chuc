@@ -10,5 +10,6 @@ En el curso se vio mucho:
 * Valor de las buenas practicas
 * Creado por JV17
 * INcluye ejmplos en linux y win.
+* Disponible para todas las edades.
 
 Amable recordatorio: Este readme.md es un simulacro o prueba, al mejor estilo de **hola mundo**
