@@ -8,6 +8,7 @@ En el curso se vio mucho:
 * Comandos de Git
 * Flujo de trabajo en Github
 * Valor de las buenas practicas
-* Creado por jv17
+* Creado por JV17
+* INcluye ejmplos en linux y win.
 
 Amable recordatorio: Este readme.md es un simulacro o prueba, al mejor estilo de **hola mundo**
